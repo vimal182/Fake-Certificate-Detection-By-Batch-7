@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+venv310/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+outputs/
+*.log
+
+# Temporary files
+temp_ela.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
